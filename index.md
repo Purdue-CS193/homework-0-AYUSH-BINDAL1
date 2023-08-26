@@ -1,4 +1,4 @@
-## It's okay to fail; it's not okay to quit.
+## It's okay to fail; it's not okay to quit - Chris Gardner The Pursuit of Happyness
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
